@@ -1,0 +1,2 @@
+linux-version:
+    uname -r
